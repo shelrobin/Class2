@@ -1,5 +1,3 @@
-var carrotGrid = [];
-
 function setup() {
   createCanvas (400,400);
 }
